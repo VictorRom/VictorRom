@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @VictorRom
-- 👀 I’m interested in IOT, GIS and Rugby :)
-- 🌱 I’m currently learning, OPC UA and GIS using MongoDB 
-- 💞️ I’m looking to collaborate on anything that picks up my interest
+- 👀 I’m interested in IOT, GIS, JAVA and Rugby :)
 - 📫 How to reach me victor.rominger@gmail.com
 
 <!---
